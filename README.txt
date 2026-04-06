@@ -13,8 +13,14 @@ Simple Sorts
 	Simple queries
 Data Detergent
 	Queries/modules/macros which update tables.
-		(I wanted to come up with more complex modules so I could practice Access VBA, but I couldn't come up with a good reason to do so.  Maybe if I want to append records from updated NUFORC tables, although even then I can prbably do that just with SQL.)
+		(I wanted to come up with more complex modules so I could practice Access VBA, but I couldn't come up with a good reason to do so.  Maybe if I want to append records from updated NUFORC tables, although even then I can probably do that just with SQL.)
 Unassigned Objects
 	I added a BFRO table and planned to do comparative queries but got sidetracked away from this project at that point and never came back T.T
 	
 Since it was a personal project, I had fun with naming some of the elements of the database.
+
+If I wanted to continue updating this, the following things are next up for this database:
+	*Finish adding notes to the Date_Tracker for US 4th of July, world-wide New Year's celebration windows (within 2 weeks of those events), for celestial events such as meteor showers, anything else by date that may discount a report.
+	*Determine what BFRO comparisons are meaningful and add queries based on those determinations.
+	*Add queries for existing data not currently present that can provide additional insight for anything I have not already considered.
+	*Consider other possible data sources for comparison.
